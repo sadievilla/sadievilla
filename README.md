@@ -9,6 +9,8 @@
 - Memory-compute tradeoffs in large embedding and retrieval systems
 - Quantization effects on optimization & inference
 
+_Currently learning more about:_ explainable AI, constrained and stochastic optimization, graph-structured reasoning.
+
 
 ## Tech Stack
 
