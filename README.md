@@ -26,7 +26,7 @@ _Currently learning more about:_ explainable AI, constrained and stochastic opti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>&nbsp;
 </div>
 
-### Frameworks, Libraries, Software
+### Frameworks & Libraries
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40"/>&nbsp;
@@ -36,7 +36,7 @@ _Currently learning more about:_ explainable AI, constrained and stochastic opti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40"/>&nbsp;
 </div>
 
-### LLMs + Frameworks
+### Large Language Models, Tools, Platforms
 <div align="center">
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Hugging Face" width="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/b11d426b-94de-463b-ba83-b814da16aaea" title="LangChain" width="40"/>&nbsp;
